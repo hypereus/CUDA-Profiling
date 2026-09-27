@@ -1,4 +1,4 @@
-# CUDA-Profiling
+# Learning CUDA
 
 Profiling CUDA kernels to check whether their measured performance matches what I predicted.
 
